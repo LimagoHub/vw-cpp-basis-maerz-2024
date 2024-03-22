@@ -11,9 +11,9 @@ class Punkt {
     void setX(double x);
     void setY(double y);
 public:
-    Punkt();
+    Punkt(double startX=0, double startY=0);
 
-    void rechts();
+    void rechts(double weite = 1);
     void links();
     void oben();
     void unten();
@@ -23,6 +23,6 @@ public:
     double getX() const;
     double getY() const;
 
-    std::string toString();
+    virtual std::string toString();
 
 };

@@ -1,0 +1,10 @@
+
+z	cpp:S5276 "Yimplicit conversion loses integer precision: 'time_t' (aka 'long long') to 'unsigned int'(ÁÁçèùÿÿÿÿ8±Œà¨æ1
+z	cpp:S1172	"YRemove the unused parameter "groesse", make it unnamed, or declare it "[[maybe_unused]]".(¥ßí™şÿÿÿÿ8ìó¨æ1
+J	cpp:S5020"/Replace "rand" with the facilities in <random>.(­…Ç8æä×¨æ1
+K	cpp:S5020"/Replace "rand" with the facilities in <random>.(“ÌğÉ8ğãÛ¨æ1
+wcpp:S995"]Make the type of this parameter a pointer-to-const. The current type of "myarray" is "int *".(ÎÑÔ)8‹å¨æ1
+Q	cpp:S5020 "0Replace "srand" with the facilities in <random>.(ÁÁçèùÿÿÿÿ8ÀŒà¨æ1
+;	cpp:S4962 "Use the "nullptr" literal.(ÁÁçèùÿÿÿÿ8ÀŒà¨æ1
+^	cpp:S5945""=Use "std::array" or "std::vector" instead of a C-style array.(ŞÀéâüÿÿÿÿ8ÀŒà¨æ1
+9cpp:S125"Remove the commented out code.(÷–Šì8…„ì¨æ1

@@ -32,14 +32,16 @@ void Punkt::setY(double neuesY) {
     y = neuesY;
 }
 
-Punkt::Punkt() {
+Punkt::Punkt(double startX, double startY) {
 
-    setX(0);
-    setY(0);
+    setX(startX);
+    setY(startY);
 }
 
-void Punkt::rechts() {
-    setX(getX() + 1);
+
+
+void Punkt::rechts(double weite) {
+    setX(getX() + weite);
 }
 void Punkt::links() {
     setX(getX() - 1);
@@ -54,3 +56,5 @@ void Punkt::unten() {
 std::string Punkt::toString() {
     return "Punkt: x = " + std::to_string(x) + ", y = " + std::to_string(y);
 }
+
+

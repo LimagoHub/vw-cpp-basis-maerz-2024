@@ -1,0 +1,9 @@
+
+>
+CMakeLists.txt,9\a\9a2aa4db38d3115ed60da621e012c0efc0172aae
+8
+main.cpp,6\8\682a50d19e416195436708e48c7761923b8d6651
+;
+Nimmspiel.h,a\5\a5a5fffda1ea04008517689445358bb247edcc64
+=
+Nimmspiel.cpp,c\3\c3796a6746327c7ec4ad1a85ea82353047928d24

@@ -1,0 +1,5 @@
+
+ƒ	cpp:S3230"bDo not assign data members in a constructor. Initialize member "steine" in an initialization list.(ή¨γϊÿÿÿÿ8ηκΏ¬ζ1
+E	cpp:S5817")This function should be declared "const".(Ώψε8‡Θϋ¬ζ1
+^	cpp:S5945""=Use "std::array" or "std::vector" instead of a C-style array.(Έ‰ζ―ύÿÿÿÿ8©θϊ¬ζ1
+>cpp:S125-"Remove the commented out code.(Ϋƒ¦κϊÿÿÿÿ8θ‹ϊ¬ζ1

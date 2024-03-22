@@ -1,0 +1,9 @@
+
+>
+CMakeLists.txt,9\a\9a2aa4db38d3115ed60da621e012c0efc0172aae
+9
+	Schwein.h,7\c\7ce30c6426c2a6d3250cf2b96291b2e2df24be8e
+;
+Schwein.cpp,5\9\59b95c5a9ffea3527d58215a560c505396ba3e88
+8
+main.cpp,6\8\682a50d19e416195436708e48c7761923b8d6651

@@ -3,4 +3,4 @@ project(PunktProjekt)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(PunktProjekt main.cpp Punkt.cpp Punkt.h)
+add_executable(PunktProjekt main.cpp Punkt.cpp Punkt.h Kreis.cpp Kreis.h)

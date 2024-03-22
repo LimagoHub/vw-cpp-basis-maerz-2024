@@ -1,0 +1,8 @@
+
+I	cpp:S1117"(declaration shadows a field of 'Monster'(¬æâûÿÿÿÿ8á€æ1
+I	cpp:S1117"(declaration shadows a field of 'Monster'(Şë«äùÿÿÿÿ8á€æ1
+D	cpp:S1117"(declaration shadows a field of 'Monster'(¤›ˆ±8á€æ1
+g	cpp:S6009"FReplace this const reference to "std::string" by a "std::string_view".(¬æâûÿÿÿÿ8á€æ1
+|	cpp:S3230%"`Do not assign data members in a constructor. Initialize member "name" in an initialization list.(ºËÜ8ğ€æ1
+~	cpp:S3230&"cDo not assign data members in a constructor. Initialize member "groesse" in an initialization list.(ş÷Œ8ğ€æ1
+}	cpp:S3230'"aDo not assign data members in a constructor. Initialize member "power" in an initialization list.(ÏœÍ’8ğ€æ1
